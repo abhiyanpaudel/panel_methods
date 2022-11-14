@@ -1,3 +1,5 @@
+% Refer http://airfoiltools.com/airfoil/naca4digit for equations
+
 clc 
 clear all
 close all
