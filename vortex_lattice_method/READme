@@ -1,0 +1,2 @@
+vlm_chordwise_spanwise.m calculates the CL of a planar swept wing with panels divided in chordwise and spanwise directions. 
+vlm_only_spanwise.m calculates the CL of a planar swept wing with panels divided in spanwise direction only. 
